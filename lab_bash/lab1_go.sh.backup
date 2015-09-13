@@ -1,0 +1,5 @@
+#!/bin/bash
+
+../simplesim-3.0/sim-outorder -res:ialu 2 -redir:sim /home/yuedeji/simplescalar/benchmark/go.out ../benchmark/go.ss 9 9 ../benchmark/go.in
+
+
